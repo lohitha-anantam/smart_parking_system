@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+*.pt
+*.mp4
+*.avi
